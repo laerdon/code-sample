@@ -1,0 +1,4254 @@
+{
+  "metrics": [
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3134966194629669,
+      "bertscore_recall": 0.5079280138015747,
+      "bertscore_f1": 0.4099087417125702,
+      "fact_presence": {
+        "fact_1": 0.3468768298625946,
+        "fact_2": 0.7708880305290222,
+        "fact_3": 0.8557015657424927,
+        "fact_4": 0.5398139953613281,
+        "average_presence": 0.6283200979232788
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.2585834562778473,
+      "bertscore_recall": 0.4741547703742981,
+      "bertscore_f1": 0.36521539092063904,
+      "fact_presence": {
+        "fact_1": 0.747694730758667,
+        "fact_2": 0.6433560848236084,
+        "fact_3": 0.7826211452484131,
+        "fact_4": 0.710985541343689,
+        "average_presence": 0.721164345741272
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3077230751514435,
+      "bertscore_recall": 0.5091805458068848,
+      "bertscore_f1": 0.4075213670730591,
+      "fact_presence": {
+        "fact_1": 0.8515219688415527,
+        "fact_2": 0.7935459613800049,
+        "fact_3": 0.7117574214935303,
+        "fact_4": 0.8017970323562622,
+        "average_presence": 0.7896555662155151
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.17106524109840393,
+      "bertscore_recall": 0.35357367992401123,
+      "bertscore_f1": 0.26192256808280945,
+      "fact_presence": {
+        "fact_1": 0.31018054485321045,
+        "fact_2": 0.4268479347229004,
+        "fact_3": 0.8513872623443604,
+        "fact_4": 0.8735004663467407,
+        "average_presence": 0.615479052066803
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4124830365180969,
+      "bertscore_recall": 0.38665255904197693,
+      "bertscore_f1": 0.4005114436149597,
+      "fact_presence": {
+        "fact_1": 0.8427034616470337,
+        "fact_2": 0.5821846723556519,
+        "fact_3": 0.5828441381454468,
+        "fact_4": 0.6122581958770752,
+        "average_presence": 0.6549976468086243
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4530813694000244,
+      "bertscore_recall": 0.41607606410980225,
+      "bertscore_f1": 0.4354328215122223,
+      "fact_presence": {
+        "fact_1": 0.899885892868042,
+        "fact_2": 0.7690504193305969,
+        "fact_3": 0.8104264736175537,
+        "fact_4": 0.4723295271396637,
+        "average_presence": 0.7379230856895447
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.25380006432533264,
+      "bertscore_recall": 0.4030759930610657,
+      "bertscore_f1": 0.32847559452056885,
+      "fact_presence": {
+        "fact_1": 0.6254117488861084,
+        "fact_2": 0.3536129891872406,
+        "fact_3": 0.7716073393821716,
+        "fact_4": 0.528795599937439,
+        "average_presence": 0.5698568820953369
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.535630464553833,
+      "bertscore_recall": 0.6531385779380798,
+      "bertscore_f1": 0.594422459602356,
+      "fact_presence": {
+        "fact_1": 0.8541768193244934,
+        "fact_2": 0.6198844909667969,
+        "fact_3": 0.7894031405448914,
+        "fact_4": 0.648648202419281,
+        "average_presence": 0.7280281782150269
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3591988682746887,
+      "bertscore_recall": 0.4337679445743561,
+      "bertscore_f1": 0.39720478653907776,
+      "fact_presence": {
+        "fact_1": 0.3524450957775116,
+        "fact_2": 0.77727210521698,
+        "fact_3": 0.8321436643600464,
+        "fact_4": 0.5308271050453186,
+        "average_presence": 0.6231719851493835
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.20292246341705322,
+      "bertscore_recall": 0.47765594720840454,
+      "bertscore_f1": 0.3377958834171295,
+      "fact_presence": {
+        "fact_1": 0.9087389707565308,
+        "fact_2": 0.7098689079284668,
+        "fact_3": 0.8675943613052368,
+        "fact_4": 0.6035451292991638,
+        "average_presence": 0.7724368572235107
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.34018486738204956,
+      "bertscore_recall": 0.39569199085235596,
+      "bertscore_f1": 0.36882153153419495,
+      "fact_presence": {
+        "fact_1": 0.6840384006500244,
+        "fact_2": 0.48512935638427734,
+        "fact_3": 0.7679409384727478,
+        "fact_4": 0.6545961499214172,
+        "average_presence": 0.6479262113571167
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.1873723566532135,
+      "bertscore_recall": 0.2374809831380844,
+      "bertscore_f1": 0.21358564496040344,
+      "fact_presence": {
+        "fact_1": 0.7864080667495728,
+        "fact_2": 0.3917824625968933,
+        "fact_3": 0.6658703088760376,
+        "fact_4": 0.5375402569770813,
+        "average_presence": 0.5954002737998962
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3121166527271271,
+      "bertscore_recall": 0.5105816721916199,
+      "bertscore_f1": 0.41047096252441406,
+      "fact_presence": {
+        "fact_1": 0.4515872895717621,
+        "fact_2": 0.39771440625190735,
+        "fact_3": 0.7859403491020203,
+        "fact_4": 0.6806953549385071,
+        "average_presence": 0.5789843201637268
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.33181658387184143,
+      "bertscore_recall": 0.20767228305339813,
+      "bertscore_f1": 0.2701890468597412,
+      "fact_presence": {
+        "fact_1": 0.22445303201675415,
+        "fact_2": 0.43502649664878845,
+        "fact_3": 0.5671390891075134,
+        "fact_4": 0.9444702863693237,
+        "average_presence": 0.5427721738815308
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.33178120851516724,
+      "bertscore_recall": 0.46375951170921326,
+      "bertscore_f1": 0.39793655276298523,
+      "fact_presence": {
+        "fact_1": 0.8893331289291382,
+        "fact_2": 0.3495209217071533,
+        "fact_3": 0.8057884573936462,
+        "fact_4": 0.7856692671775818,
+        "average_presence": 0.7075779438018799
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.31712183356285095,
+      "bertscore_recall": 0.27125635743141174,
+      "bertscore_f1": 0.29523423314094543,
+      "fact_presence": {
+        "fact_1": 0.41754722595214844,
+        "fact_2": 0.4199739396572113,
+        "fact_3": 0.6680401563644409,
+        "fact_4": 0.802359938621521,
+        "average_presence": 0.5769803524017334
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.14830608665943146,
+      "bertscore_recall": 0.10493481159210205,
+      "bertscore_f1": 0.12794563174247742,
+      "fact_presence": {
+        "fact_1": 0.22881245613098145,
+        "fact_2": 0.30008113384246826,
+        "fact_3": 0.7672411799430847,
+        "fact_4": 0.5229307413101196,
+        "average_presence": 0.4547663629055023
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.29433968663215637,
+      "bertscore_recall": 0.2823021113872528,
+      "bertscore_f1": 0.2894698977470398,
+      "fact_presence": {
+        "fact_1": 0.3175983428955078,
+        "fact_2": 0.351500928401947,
+        "fact_3": 0.7965537905693054,
+        "fact_4": 0.7359610795974731,
+        "average_presence": 0.5504035353660583
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.12080564349889755,
+      "bertscore_recall": 0.5546440482139587,
+      "bertscore_f1": 0.32990023493766785,
+      "fact_presence": {
+        "fact_1": 0.5703662633895874,
+        "fact_2": 0.6656975150108337,
+        "fact_3": 0.8292917013168335,
+        "fact_4": 0.6208884119987488,
+        "average_presence": 0.6715609431266785
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2710619568824768,
+      "bertscore_recall": 0.4059057831764221,
+      "bertscore_f1": 0.3387010395526886,
+      "fact_presence": {
+        "fact_1": 0.6352322101593018,
+        "fact_2": 0.5015088319778442,
+        "fact_3": 0.831328272819519,
+        "fact_4": 0.5502233505249023,
+        "average_presence": 0.6295731663703918
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3620688319206238,
+      "bertscore_recall": 0.5952367186546326,
+      "bertscore_f1": 0.47699785232543945,
+      "fact_presence": {
+        "fact_1": 0.8698432445526123,
+        "fact_2": 0.758419930934906,
+        "fact_3": 0.8071874976158142,
+        "fact_4": 0.6842741370201111,
+        "average_presence": 0.7799312472343445
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.11798059940338135,
+      "bertscore_recall": 0.210478737950325,
+      "bertscore_f1": 0.16517102718353271,
+      "fact_presence": {
+        "fact_1": 0.7387784719467163,
+        "fact_2": 0.39212292432785034,
+        "fact_3": 0.7343490123748779,
+        "fact_4": 0.607383131980896,
+        "average_presence": 0.6181583404541016
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.48063063621520996,
+      "bertscore_recall": 0.5213232040405273,
+      "bertscore_f1": 0.5017125010490417,
+      "fact_presence": {
+        "fact_1": 0.33728650212287903,
+        "fact_2": 0.7042249441146851,
+        "fact_3": 0.7947637438774109,
+        "fact_4": 0.7613977193832397,
+        "average_presence": 0.6494182348251343
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4635898470878601,
+      "bertscore_recall": 0.46825289726257324,
+      "bertscore_f1": 0.466788649559021,
+      "fact_presence": {
+        "fact_1": 0.3111903667449951,
+        "fact_2": 0.6249617338180542,
+        "fact_3": 0.8329907655715942,
+        "fact_4": 0.8009881377220154,
+        "average_presence": 0.6425327658653259
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.29783791303634644,
+      "bertscore_recall": 0.5419520735740662,
+      "bertscore_f1": 0.4180646538734436,
+      "fact_presence": {
+        "fact_1": 0.5667716860771179,
+        "fact_2": 0.6274722814559937,
+        "fact_3": 0.7944607734680176,
+        "fact_4": 0.7456541061401367,
+        "average_presence": 0.6835896968841553
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4350295662879944,
+      "bertscore_recall": 0.5896850228309631,
+      "bertscore_f1": 0.5120569467544556,
+      "fact_presence": {
+        "fact_1": 0.3567757308483124,
+        "fact_2": 0.6861753463745117,
+        "fact_3": 0.8371460437774658,
+        "fact_4": 0.6444187760353088,
+        "average_presence": 0.6311289668083191
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.15292109549045563,
+      "bertscore_recall": 0.21156854927539825,
+      "bertscore_f1": 0.1834072470664978,
+      "fact_presence": {
+        "fact_1": 0.2872013449668884,
+        "fact_2": 0.4143281877040863,
+        "fact_3": 0.8441810607910156,
+        "fact_4": 0.7843761444091797,
+        "average_presence": 0.5825216770172119
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4146122336387634,
+      "bertscore_recall": 0.5293980240821838,
+      "bertscore_f1": 0.4722573757171631,
+      "fact_presence": {
+        "fact_1": 0.8403026461601257,
+        "fact_2": 0.4661017060279846,
+        "fact_3": 0.79338538646698,
+        "fact_4": 0.7446421384811401,
+        "average_presence": 0.7111079692840576
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4588354527950287,
+      "bertscore_recall": 0.4724275469779968,
+      "bertscore_f1": 0.4664912819862366,
+      "fact_presence": {
+        "fact_1": 0.34712472558021545,
+        "fact_2": 0.39629748463630676,
+        "fact_3": 0.7973566055297852,
+        "fact_4": 0.7055547833442688,
+        "average_presence": 0.561583399772644
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.10925538092851639,
+      "bertscore_recall": 0.38819587230682373,
+      "bertscore_f1": 0.2462061643600464,
+      "fact_presence": {
+        "fact_1": 0.327461838722229,
+        "fact_2": 0.368208646774292,
+        "fact_3": 0.7876982688903809,
+        "fact_4": 0.7369388341903687,
+        "average_presence": 0.5550768971443176
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.08137819170951843,
+      "bertscore_recall": 0.24628978967666626,
+      "bertscore_f1": 0.16386502981185913,
+      "fact_presence": {
+        "fact_1": 0.3691439628601074,
+        "fact_2": 0.453334242105484,
+        "fact_3": 0.7411096096038818,
+        "fact_4": 0.5649775266647339,
+        "average_presence": 0.5321413278579712
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2613586187362671,
+      "bertscore_recall": 0.5352224707603455,
+      "bertscore_f1": 0.3957635462284088,
+      "fact_presence": {
+        "fact_1": 0.7676244378089905,
+        "fact_2": 0.42268824577331543,
+        "fact_3": 0.8003637790679932,
+        "fact_4": 0.6365343332290649,
+        "average_presence": 0.6568026542663574
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.24836045503616333,
+      "bertscore_recall": 0.5469731688499451,
+      "bertscore_f1": 0.3944780230522156,
+      "fact_presence": {
+        "fact_1": 0.431092768907547,
+        "fact_2": 0.6691516637802124,
+        "fact_3": 0.8009721636772156,
+        "fact_4": 0.6190285682678223,
+        "average_presence": 0.6300612688064575
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.32957133650779724,
+      "bertscore_recall": 0.575192928314209,
+      "bertscore_f1": 0.45048174262046814,
+      "fact_presence": {
+        "fact_1": 0.383647084236145,
+        "fact_2": 0.8054047226905823,
+        "fact_3": 0.7692890167236328,
+        "fact_4": 0.7801902294158936,
+        "average_presence": 0.6846327781677246
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3308391571044922,
+      "bertscore_recall": 0.5341778993606567,
+      "bertscore_f1": 0.4315119981765747,
+      "fact_presence": {
+        "fact_1": 0.4951099455356598,
+        "fact_2": 0.43685370683670044,
+        "fact_3": 0.8097025752067566,
+        "fact_4": 0.8062465190887451,
+        "average_presence": 0.6369782090187073
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2464756816625595,
+      "bertscore_recall": 0.5557547211647034,
+      "bertscore_f1": 0.39762046933174133,
+      "fact_presence": {
+        "fact_1": 0.9293819665908813,
+        "fact_2": 0.38443323969841003,
+        "fact_3": 0.851054310798645,
+        "fact_4": 0.7499451637268066,
+        "average_presence": 0.7287036776542664
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.37075692415237427,
+      "bertscore_recall": 0.7316420674324036,
+      "bertscore_f1": 0.5460103154182434,
+      "fact_presence": {
+        "fact_1": 0.739730954170227,
+        "fact_2": 0.7422007918357849,
+        "fact_3": 0.7230783104896545,
+        "fact_4": 0.5782694816589355,
+        "average_presence": 0.6958198547363281
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.34072431921958923,
+      "bertscore_recall": 0.5721795558929443,
+      "bertscore_f1": 0.45485955476760864,
+      "fact_presence": {
+        "fact_1": 0.8592734336853027,
+        "fact_2": 0.7358510494232178,
+        "fact_3": 0.7462937831878662,
+        "fact_4": 0.8598853349685669,
+        "average_presence": 0.800325870513916
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.12593747675418854,
+      "bertscore_recall": 0.31092938780784607,
+      "bertscore_f1": 0.21804997324943542,
+      "fact_presence": {
+        "fact_1": 0.8525463938713074,
+        "fact_2": 0.35344427824020386,
+        "fact_3": 0.7863630056381226,
+        "fact_4": 0.7594656944274902,
+        "average_presence": 0.687954843044281
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.18109862506389618,
+      "bertscore_recall": 0.46410617232322693,
+      "bertscore_f1": 0.31990647315979004,
+      "fact_presence": {
+        "fact_1": 0.48089492321014404,
+        "fact_2": 0.6591112017631531,
+        "fact_3": 0.792024552822113,
+        "fact_4": 0.702985405921936,
+        "average_presence": 0.6587539911270142
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.5445456504821777,
+      "bertscore_recall": 0.7578784823417664,
+      "bertscore_f1": 0.6497495174407959,
+      "fact_presence": {
+        "fact_1": 0.9195981025695801,
+        "fact_2": 0.77727210521698,
+        "fact_3": 0.7703815698623657,
+        "fact_4": 0.616674542427063,
+        "average_presence": 0.7709815502166748
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.38059112429618835,
+      "bertscore_recall": 0.6440358757972717,
+      "bertscore_f1": 0.5099312663078308,
+      "fact_presence": {
+        "fact_1": 0.9028346538543701,
+        "fact_2": 0.7867875695228577,
+        "fact_3": 0.7124280333518982,
+        "fact_4": 0.8709205389022827,
+        "average_presence": 0.8182426691055298
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.8208473324775696,
+      "bertscore_recall": 0.8017184138298035,
+      "bertscore_f1": 0.8115732669830322,
+      "fact_presence": {
+        "fact_1": 0.8512891530990601,
+        "fact_2": 0.6842228174209595,
+        "fact_3": 0.8851785659790039,
+        "fact_4": 0.6381598711013794,
+        "average_presence": 0.7647125720977783
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.033850595355033875,
+      "bertscore_recall": -0.2227504849433899,
+      "bertscore_f1": -0.12832492589950562,
+      "fact_presence": {
+        "fact_1": 0.087435781955719,
+        "fact_2": 0.07308991253376007,
+        "fact_3": 0.1266440600156784,
+        "fact_4": 0.1046261191368103,
+        "average_presence": 0.09794896841049194
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.5543279051780701,
+      "bertscore_recall": 0.8024215698242188,
+      "bertscore_f1": 0.676164984703064,
+      "fact_presence": {
+        "fact_1": 0.7048669457435608,
+        "fact_2": 0.7935459613800049,
+        "fact_3": 0.7665767073631287,
+        "fact_4": 0.5643181800842285,
+        "average_presence": 0.7073269486427307
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.6978866457939148,
+      "bertscore_recall": 0.8494955897331238,
+      "bertscore_f1": 0.77305668592453,
+      "fact_presence": {
+        "fact_1": 0.7673982977867126,
+        "fact_2": 0.7391002178192139,
+        "fact_3": 0.8817049264907837,
+        "fact_4": 0.5797100067138672,
+        "average_presence": 0.7419784069061279
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3048470914363861,
+      "bertscore_recall": 0.6382277011871338,
+      "bertscore_f1": 0.4672717750072479,
+      "fact_presence": {
+        "fact_1": 0.8512891530990601,
+        "fact_2": 0.8147721886634827,
+        "fact_3": 0.7816176414489746,
+        "fact_4": 0.8070515394210815,
+        "average_presence": 0.8136826753616333
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3089520037174225,
+      "bertscore_recall": 0.6121111512184143,
+      "bertscore_f1": 0.45716285705566406,
+      "fact_presence": {
+        "fact_1": 0.7156248688697815,
+        "fact_2": 0.7378244996070862,
+        "fact_3": 0.7424489855766296,
+        "fact_4": 0.6442321538925171,
+        "average_presence": 0.71003258228302
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.24099823832511902,
+      "bertscore_recall": 0.766979455947876,
+      "bertscore_f1": 0.49210894107818604,
+      "fact_presence": {
+        "fact_1": 0.8607349395751953,
+        "fact_2": 0.609063446521759,
+        "fact_3": 0.8863723278045654,
+        "fact_4": 0.5922743678092957,
+        "average_presence": 0.7371112704277039
+      }
+    },
+    {
+      "story_key": "tariffs",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.32113972306251526,
+      "bertscore_recall": 0.7477765083312988,
+      "bertscore_f1": 0.5269165635108948,
+      "fact_presence": {
+        "fact_1": 0.908356785774231,
+        "fact_2": 0.7772721648216248,
+        "fact_3": 0.7850416302680969,
+        "fact_4": 0.7035653591156006,
+        "average_presence": 0.7935589551925659
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.42320728302001953,
+      "bertscore_recall": 0.5448288917541504,
+      "bertscore_f1": 0.4841776490211487,
+      "fact_presence": {
+        "fact_1": 0.8189504146575928,
+        "fact_2": 0.714843213558197,
+        "fact_3": 0.7673124670982361,
+        "fact_4": 0.6880601644515991,
+        "average_presence": 0.7472915649414062
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.5759001970291138,
+      "bertscore_recall": 0.6604486703872681,
+      "bertscore_f1": 0.6184752583503723,
+      "fact_presence": {
+        "fact_1": 0.732485294342041,
+        "fact_2": 0.6419926881790161,
+        "fact_3": 0.6639527678489685,
+        "fact_4": 0.8049393892288208,
+        "average_presence": 0.710842490196228
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.15996000170707703,
+      "bertscore_recall": 0.2279520034790039,
+      "bertscore_f1": 0.1950421780347824,
+      "fact_presence": {
+        "fact_1": 0.6621110439300537,
+        "fact_2": 0.6341779828071594,
+        "fact_3": 0.665791392326355,
+        "fact_4": 0.6915134191513062,
+        "average_presence": 0.6633984446525574
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.2905694544315338,
+      "bertscore_recall": 0.4032634496688843,
+      "bertscore_f1": 0.3473796546459198,
+      "fact_presence": {
+        "fact_1": 0.6288177967071533,
+        "fact_2": 0.5474463701248169,
+        "fact_3": 0.8230705857276917,
+        "fact_4": 0.7407674789428711,
+        "average_presence": 0.6850255727767944
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.5592354536056519,
+      "bertscore_recall": 0.602676272392273,
+      "bertscore_f1": 0.5815521478652954,
+      "fact_presence": {
+        "fact_1": 0.9026848673820496,
+        "fact_2": 0.7314424514770508,
+        "fact_3": 0.787899911403656,
+        "fact_4": 0.7273598909378052,
+        "average_presence": 0.7873468399047852
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.19942282140254974,
+      "bertscore_recall": 0.4142650067806244,
+      "bertscore_f1": 0.3057771623134613,
+      "fact_presence": {
+        "fact_1": 0.6717699766159058,
+        "fact_2": 0.8731390237808228,
+        "fact_3": 0.4385063648223877,
+        "fact_4": 0.5890409350395203,
+        "average_presence": 0.6431140899658203
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.17535586655139923,
+      "bertscore_recall": 0.2767663300037384,
+      "bertscore_f1": 0.22682321071624756,
+      "fact_presence": {
+        "fact_1": 0.7213553190231323,
+        "fact_2": 0.6528185606002808,
+        "fact_3": 0.7426767349243164,
+        "fact_4": 0.5595000386238098,
+        "average_presence": 0.6690876483917236
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4315076470375061,
+      "bertscore_recall": 0.3990481197834015,
+      "bertscore_f1": 0.4161777198314667,
+      "fact_presence": {
+        "fact_1": 0.6780921816825867,
+        "fact_2": 0.6068209409713745,
+        "fact_3": 0.805561900138855,
+        "fact_4": 0.6668634414672852,
+        "average_presence": 0.6893346309661865
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.48075446486473083,
+      "bertscore_recall": 0.4325447678565979,
+      "bertscore_f1": 0.4574238657951355,
+      "fact_presence": {
+        "fact_1": 0.696337878704071,
+        "fact_2": 0.5707429647445679,
+        "fact_3": 0.7916517853736877,
+        "fact_4": 0.6519852876663208,
+        "average_presence": 0.6776794195175171
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.20882193744182587,
+      "bertscore_recall": 0.3118571937084198,
+      "bertscore_f1": 0.261033296585083,
+      "fact_presence": {
+        "fact_1": 0.7274820804595947,
+        "fact_2": 0.5758339166641235,
+        "fact_3": 0.6018882989883423,
+        "fact_4": 0.744356632232666,
+        "average_presence": 0.6623902320861816
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2528619170188904,
+      "bertscore_recall": 0.6845157146453857,
+      "bertscore_f1": 0.4609544277191162,
+      "fact_presence": {
+        "fact_1": 0.8795124292373657,
+        "fact_2": 0.6895197629928589,
+        "fact_3": 0.744962215423584,
+        "fact_4": 0.6527407169342041,
+        "average_presence": 0.7416837811470032
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.11334154009819031,
+      "bertscore_recall": 0.21775873005390167,
+      "bertscore_f1": 0.16637425124645233,
+      "fact_presence": {
+        "fact_1": 0.5346114635467529,
+        "fact_2": 0.8033024668693542,
+        "fact_3": 0.7503671646118164,
+        "fact_4": 0.6241093873977661,
+        "average_presence": 0.6780976057052612
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4058428108692169,
+      "bertscore_recall": 0.6966318488121033,
+      "bertscore_f1": 0.5481250286102295,
+      "fact_presence": {
+        "fact_1": 0.8885297775268555,
+        "fact_2": 0.6877819299697876,
+        "fact_3": 0.7971042990684509,
+        "fact_4": 0.6451447606086731,
+        "average_presence": 0.7546401619911194
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.49191877245903015,
+      "bertscore_recall": 0.6360791921615601,
+      "bertscore_f1": 0.5637668967247009,
+      "fact_presence": {
+        "fact_1": 0.842481255531311,
+        "fact_2": 0.6981028914451599,
+        "fact_3": 0.6910633444786072,
+        "fact_4": 0.6310127973556519,
+        "average_presence": 0.7156651020050049
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3389725685119629,
+      "bertscore_recall": 0.725568950176239,
+      "bertscore_f1": 0.5262155532836914,
+      "fact_presence": {
+        "fact_1": 0.835586428642273,
+        "fact_2": 0.6185356378555298,
+        "fact_3": 0.7017679810523987,
+        "fact_4": 0.6496999263763428,
+        "average_presence": 0.7013974785804749
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.28686216473579407,
+      "bertscore_recall": 0.40809816122055054,
+      "bertscore_f1": 0.3478482961654663,
+      "fact_presence": {
+        "fact_1": 0.8102703094482422,
+        "fact_2": 0.6837441921234131,
+        "fact_3": 0.4831339120864868,
+        "fact_4": 0.5609912276268005,
+        "average_presence": 0.6345348954200745
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.43399661779403687,
+      "bertscore_recall": 0.7018216848373413,
+      "bertscore_f1": 0.5653628706932068,
+      "fact_presence": {
+        "fact_1": 0.8381739854812622,
+        "fact_2": 0.6373344659805298,
+        "fact_3": 0.8726946115493774,
+        "fact_4": 0.7260292768478394,
+        "average_presence": 0.768558144569397
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.33523839712142944,
+      "bertscore_recall": 0.5593832731246948,
+      "bertscore_f1": 0.445883572101593,
+      "fact_presence": {
+        "fact_1": 0.8540666103363037,
+        "fact_2": 0.6804380416870117,
+        "fact_3": 0.9349586367607117,
+        "fact_4": 0.6189997792243958,
+        "average_presence": 0.7721157670021057
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.451688677072525,
+      "bertscore_recall": 0.6175490021705627,
+      "bertscore_f1": 0.5341225266456604,
+      "fact_presence": {
+        "fact_1": 0.8994894027709961,
+        "fact_2": 0.5919511318206787,
+        "fact_3": 0.5585274696350098,
+        "fact_4": 0.6426151990890503,
+        "average_presence": 0.6731457710266113
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4468561112880707,
+      "bertscore_recall": 0.6261473298072815,
+      "bertscore_f1": 0.5357919335365295,
+      "fact_presence": {
+        "fact_1": 0.7835413217544556,
+        "fact_2": 0.617348849773407,
+        "fact_3": 0.7716003656387329,
+        "fact_4": 0.6533708572387695,
+        "average_presence": 0.7064653635025024
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.5025832653045654,
+      "bertscore_recall": 0.590590238571167,
+      "bertscore_f1": 0.5469726324081421,
+      "fact_presence": {
+        "fact_1": 0.8560102581977844,
+        "fact_2": 0.6658424735069275,
+        "fact_3": 0.7997275590896606,
+        "fact_4": 0.6652665138244629,
+        "average_presence": 0.7467117309570312
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3534833490848541,
+      "bertscore_recall": 0.6432569622993469,
+      "bertscore_f1": 0.4953336715698242,
+      "fact_presence": {
+        "fact_1": 0.8571022748947144,
+        "fact_2": 0.6165211200714111,
+        "fact_3": 0.778937816619873,
+        "fact_4": 0.7093786597251892,
+        "average_presence": 0.7404849529266357
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": -0.07244992256164551,
+      "bertscore_recall": -0.0529412180185318,
+      "bertscore_f1": -0.06098824739456177,
+      "fact_presence": {
+        "fact_1": 0.464484840631485,
+        "fact_2": 0.5832207798957825,
+        "fact_3": 0.39719629287719727,
+        "fact_4": 0.636612057685852,
+        "average_presence": 0.5203784704208374
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.5415427088737488,
+      "bertscore_recall": 0.7007014155387878,
+      "bertscore_f1": 0.6206030249595642,
+      "fact_presence": {
+        "fact_1": 0.8890103101730347,
+        "fact_2": 0.6144095659255981,
+        "fact_3": 0.8586176633834839,
+        "fact_4": 0.6611509323120117,
+        "average_presence": 0.7557971477508545
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3500353693962097,
+      "bertscore_recall": 0.4803856313228607,
+      "bertscore_f1": 0.41537073254585266,
+      "fact_presence": {
+        "fact_1": 0.688027024269104,
+        "fact_2": 0.6861496567726135,
+        "fact_3": 0.814437985420227,
+        "fact_4": 0.5985333919525146,
+        "average_presence": 0.6967870593070984
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3570951223373413,
+      "bertscore_recall": 0.5469381809234619,
+      "bertscore_f1": 0.4512406885623932,
+      "fact_presence": {
+        "fact_1": 0.8305984139442444,
+        "fact_2": 0.6043967008590698,
+        "fact_3": 0.6519206762313843,
+        "fact_4": 0.5868625640869141,
+        "average_presence": 0.6684446334838867
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.39778900146484375,
+      "bertscore_recall": 0.6619024872779846,
+      "bertscore_f1": 0.5274286866188049,
+      "fact_presence": {
+        "fact_1": 0.8400188684463501,
+        "fact_2": 0.6987718939781189,
+        "fact_3": 0.7963591814041138,
+        "fact_4": 0.6625524759292603,
+        "average_presence": 0.7494255304336548
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4958793520927429,
+      "bertscore_recall": 0.636603057384491,
+      "bertscore_f1": 0.566050112247467,
+      "fact_presence": {
+        "fact_1": 0.8188562989234924,
+        "fact_2": 0.6380631327629089,
+        "fact_3": 0.5543854236602783,
+        "fact_4": 0.6194828152656555,
+        "average_presence": 0.6576969027519226
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.21686017513275146,
+      "bertscore_recall": 0.4027724862098694,
+      "bertscore_f1": 0.3092971444129944,
+      "fact_presence": {
+        "fact_1": 0.7975587248802185,
+        "fact_2": 0.7078810930252075,
+        "fact_3": 0.6750835180282593,
+        "fact_4": 0.5861527919769287,
+        "average_presence": 0.6916690468788147
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.30259832739830017,
+      "bertscore_recall": 0.6341032981872559,
+      "bertscore_f1": 0.4641452431678772,
+      "fact_presence": {
+        "fact_1": 0.8349411487579346,
+        "fact_2": 0.633059561252594,
+        "fact_3": 0.9190657138824463,
+        "fact_4": 0.6111178398132324,
+        "average_presence": 0.7495460510253906
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.19139732420444489,
+      "bertscore_recall": 0.6273252367973328,
+      "bertscore_f1": 0.40145474672317505,
+      "fact_presence": {
+        "fact_1": 0.8218600749969482,
+        "fact_2": 0.6922911405563354,
+        "fact_3": 0.8523434996604919,
+        "fact_4": 0.7140786647796631,
+        "average_presence": 0.7701433300971985
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.1339905709028244,
+      "bertscore_recall": 0.40491393208503723,
+      "bertscore_f1": 0.26712465286254883,
+      "fact_presence": {
+        "fact_1": 0.7986617088317871,
+        "fact_2": 0.6782287359237671,
+        "fact_3": 0.41223010420799255,
+        "fact_4": 0.7182275056838989,
+        "average_presence": 0.6518369913101196
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.24117511510849,
+      "bertscore_recall": 0.620942234992981,
+      "bertscore_f1": 0.42528223991394043,
+      "fact_presence": {
+        "fact_1": 0.7422860860824585,
+        "fact_2": 0.676820695400238,
+        "fact_3": 0.8502056002616882,
+        "fact_4": 0.6715016961097717,
+        "average_presence": 0.7352035045623779
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.19576682150363922,
+      "bertscore_recall": 0.4732895791530609,
+      "bertscore_f1": 0.331967294216156,
+      "fact_presence": {
+        "fact_1": 0.5865192413330078,
+        "fact_2": 0.5001266002655029,
+        "fact_3": 0.8571528196334839,
+        "fact_4": 0.693842887878418,
+        "average_presence": 0.6594103574752808
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.18665920197963715,
+      "bertscore_recall": 0.16417904198169708,
+      "bertscore_f1": 0.17673389613628387,
+      "fact_presence": {
+        "fact_1": 0.7183835506439209,
+        "fact_2": 0.6701756119728088,
+        "fact_3": 0.4403238892555237,
+        "fact_4": 0.6074406504631042,
+        "average_presence": 0.6090809106826782
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.1669101119041443,
+      "bertscore_recall": 0.5722453594207764,
+      "bertscore_f1": 0.3628799319267273,
+      "fact_presence": {
+        "fact_1": 0.737321674823761,
+        "fact_2": 0.597115159034729,
+        "fact_3": 0.8462224006652832,
+        "fact_4": 0.670282244682312,
+        "average_presence": 0.7127354145050049
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.39415034651756287,
+      "bertscore_recall": 0.6938275098800659,
+      "bertscore_f1": 0.5406447052955627,
+      "fact_presence": {
+        "fact_1": 0.8930087685585022,
+        "fact_2": 0.596775233745575,
+        "fact_3": 0.7165652513504028,
+        "fact_4": 0.6327165961265564,
+        "average_presence": 0.7097665071487427
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2846826910972595,
+      "bertscore_recall": 0.521379828453064,
+      "bertscore_f1": 0.40138623118400574,
+      "fact_presence": {
+        "fact_1": 0.8292529582977295,
+        "fact_2": 0.6194647550582886,
+        "fact_3": 0.7657599449157715,
+        "fact_4": 0.587624728679657,
+        "average_presence": 0.7005255818367004
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.36982831358909607,
+      "bertscore_recall": 0.737358570098877,
+      "bertscore_f1": 0.5481829643249512,
+      "fact_presence": {
+        "fact_1": 0.9205732941627502,
+        "fact_2": 0.8127437829971313,
+        "fact_3": 0.8666521310806274,
+        "fact_4": 0.6836034655570984,
+        "average_presence": 0.8208932280540466
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.17718474566936493,
+      "bertscore_recall": 0.5657686591148376,
+      "bertscore_f1": 0.3654036223888397,
+      "fact_presence": {
+        "fact_1": 0.9218488931655884,
+        "fact_2": 0.9269670248031616,
+        "fact_3": 0.893314003944397,
+        "fact_4": 0.5587438344955444,
+        "average_presence": 0.8252184391021729
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.6543044447898865,
+      "bertscore_recall": 0.7736178040504456,
+      "bertscore_f1": 0.7137989401817322,
+      "fact_presence": {
+        "fact_1": 0.8651691675186157,
+        "fact_2": 0.6653627753257751,
+        "fact_3": 0.8039882779121399,
+        "fact_4": 0.6588185429573059,
+        "average_presence": 0.7483346462249756
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.8249204158782959,
+      "bertscore_recall": 0.6812444925308228,
+      "bertscore_f1": 0.7525754570960999,
+      "fact_presence": {
+        "fact_1": 0.8249856233596802,
+        "fact_2": 0.6478369832038879,
+        "fact_3": 0.6216261386871338,
+        "fact_4": 0.5592647790908813,
+        "average_presence": 0.6634284257888794
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.27160388231277466,
+      "bertscore_recall": 0.6947875022888184,
+      "bertscore_f1": 0.4757939279079437,
+      "fact_presence": {
+        "fact_1": 0.7383034229278564,
+        "fact_2": 0.814119815826416,
+        "fact_3": 0.8573172688484192,
+        "fact_4": 0.754973292350769,
+        "average_presence": 0.7911784648895264
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3928435742855072,
+      "bertscore_recall": 0.6966753602027893,
+      "bertscore_f1": 0.5413001775741577,
+      "fact_presence": {
+        "fact_1": 0.8420631885528564,
+        "fact_2": 0.6809476613998413,
+        "fact_3": 0.8634451627731323,
+        "fact_4": 0.8596327304840088,
+        "average_presence": 0.8115221858024597
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.10216908156871796,
+      "bertscore_recall": -0.1952020823955536,
+      "bertscore_f1": -0.14727312326431274,
+      "fact_presence": {
+        "fact_1": 0.062201306223869324,
+        "fact_2": 0.08098995685577393,
+        "fact_3": 0.20633754134178162,
+        "fact_4": 0.2059711515903473,
+        "average_presence": 0.13887497782707214
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.058549705892801285,
+      "bertscore_recall": -0.18658465147018433,
+      "bertscore_f1": -0.12159684300422668,
+      "fact_presence": {
+        "fact_1": 0.0907941609621048,
+        "fact_2": 0.05740173161029816,
+        "fact_3": 0.16706639528274536,
+        "fact_4": 0.17121970653533936,
+        "average_presence": 0.12162049859762192
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3203936517238617,
+      "bertscore_recall": 0.623719334602356,
+      "bertscore_f1": 0.4686734676361084,
+      "fact_presence": {
+        "fact_1": 0.905315637588501,
+        "fact_2": 0.7482597827911377,
+        "fact_3": 0.7971042990684509,
+        "fact_4": 0.7178462147712708,
+        "average_presence": 0.7921314835548401
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3841547966003418,
+      "bertscore_recall": 0.6627634167671204,
+      "bertscore_f1": 0.5206896662712097,
+      "fact_presence": {
+        "fact_1": 0.9052456617355347,
+        "fact_2": 0.7025395631790161,
+        "fact_3": 0.9199416637420654,
+        "fact_4": 0.800726056098938,
+        "average_presence": 0.8321132659912109
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.46871107816696167,
+      "bertscore_recall": 0.794147253036499,
+      "bertscore_f1": 0.6272852420806885,
+      "fact_presence": {
+        "fact_1": 0.9003919363021851,
+        "fact_2": 0.696076512336731,
+        "fact_3": 0.8571528196334839,
+        "fact_4": 0.6950432658195496,
+        "average_presence": 0.787166178226471
+      }
+    },
+    {
+      "story_key": "climate",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.47742003202438354,
+      "bertscore_recall": 0.6836466193199158,
+      "bertscore_f1": 0.5792943835258484,
+      "fact_presence": {
+        "fact_1": 0.8400189876556396,
+        "fact_2": 0.8148208856582642,
+        "fact_3": 0.8372007608413696,
+        "fact_4": 0.8920369744300842,
+        "average_presence": 0.8460193872451782
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": -0.007478607818484306,
+      "bertscore_recall": 0.24647337198257446,
+      "bertscore_f1": 0.11774914711713791,
+      "fact_presence": {
+        "fact_1": 0.43638715147972107,
+        "fact_2": 0.4237152338027954,
+        "fact_3": 0.47821250557899475,
+        "fact_4": 0.5765865445137024,
+        "average_presence": 0.4787253737449646
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.032479818910360336,
+      "bertscore_recall": 0.4745364487171173,
+      "bertscore_f1": 0.24532996118068695,
+      "fact_presence": {
+        "fact_1": 0.25079160928726196,
+        "fact_2": 0.28522542119026184,
+        "fact_3": 0.8649349212646484,
+        "fact_4": 0.4902154803276062,
+        "average_presence": 0.472791850566864
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4557843804359436,
+      "bertscore_recall": 0.7142154574394226,
+      "bertscore_f1": 0.5826593041419983,
+      "fact_presence": {
+        "fact_1": 0.16834670305252075,
+        "fact_2": 0.14380627870559692,
+        "fact_3": 0.08935844898223877,
+        "fact_4": 0.27909818291664124,
+        "average_presence": 0.17015239596366882
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": -0.03495500236749649,
+      "bertscore_recall": 0.14207834005355835,
+      "bertscore_f1": 0.05353546887636185,
+      "fact_presence": {
+        "fact_1": 0.12349291145801544,
+        "fact_2": 0.16208231449127197,
+        "fact_3": 0.16248786449432373,
+        "fact_4": 0.3337586522102356,
+        "average_presence": 0.1954554319381714
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.06270059943199158,
+      "bertscore_recall": 0.47812286019325256,
+      "bertscore_f1": 0.2633313238620758,
+      "fact_presence": {
+        "fact_1": 0.3535383939743042,
+        "fact_2": 0.3855412006378174,
+        "fact_3": 0.2766846716403961,
+        "fact_4": 0.7515740394592285,
+        "average_presence": 0.44183456897735596
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.17796653509140015,
+      "bertscore_recall": 0.32720035314559937,
+      "bertscore_f1": 0.2527294158935547,
+      "fact_presence": {
+        "fact_1": 0.1556236445903778,
+        "fact_2": 0.14859077334403992,
+        "fact_3": 0.032546110451221466,
+        "fact_4": 0.2836613953113556,
+        "average_presence": 0.15510547161102295
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.22100575268268585,
+      "bertscore_recall": 0.6412226557731628,
+      "bertscore_f1": 0.4238339066505432,
+      "fact_presence": {
+        "fact_1": 0.15243151783943176,
+        "fact_2": 0.17830033600330353,
+        "fact_3": 0.10928968340158463,
+        "fact_4": 0.3022997975349426,
+        "average_presence": 0.18558034300804138
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3059108257293701,
+      "bertscore_recall": 0.7588989734649658,
+      "bertscore_f1": 0.5238059163093567,
+      "fact_presence": {
+        "fact_1": 0.19850748777389526,
+        "fact_2": 0.14180675148963928,
+        "fact_3": 0.05387014523148537,
+        "fact_4": 0.3193103075027466,
+        "average_presence": 0.17837366461753845
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.017197508364915848,
+      "bertscore_recall": -0.038442764431238174,
+      "bertscore_f1": -0.009139125235378742,
+      "fact_presence": {
+        "fact_1": 0.06217494606971741,
+        "fact_2": 0.08630959689617157,
+        "fact_3": 0.18357208371162415,
+        "fact_4": 0.11882159113883972,
+        "average_presence": 0.11271955817937851
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.14828026294708252,
+      "bertscore_recall": 0.3532058000564575,
+      "bertscore_f1": 0.2499433159828186,
+      "fact_presence": {
+        "fact_1": 0.15088528394699097,
+        "fact_2": 0.12067806720733643,
+        "fact_3": 0.09699292480945587,
+        "fact_4": 0.2761967182159424,
+        "average_presence": 0.1611882448196411
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2010875642299652,
+      "bertscore_recall": 0.5265070199966431,
+      "bertscore_f1": 0.3598494529724121,
+      "fact_presence": {
+        "fact_1": 0.22923316061496735,
+        "fact_2": 0.3018711507320404,
+        "fact_3": 0.1895601749420166,
+        "fact_4": 0.4004875123500824,
+        "average_presence": 0.2802880108356476
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.1764107495546341,
+      "bertscore_recall": 0.5264295935630798,
+      "bertscore_f1": 0.34669697284698486,
+      "fact_presence": {
+        "fact_1": 0.15357628464698792,
+        "fact_2": 0.11691375076770782,
+        "fact_3": 0.11835671961307526,
+        "fact_4": 0.2582220733165741,
+        "average_presence": 0.16176721453666687
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.015088102780282497,
+      "bertscore_recall": 0.22761385142803192,
+      "bertscore_f1": 0.12055395543575287,
+      "fact_presence": {
+        "fact_1": 0.18866726756095886,
+        "fact_2": 0.15572431683540344,
+        "fact_3": 0.1343538612127304,
+        "fact_4": 0.25711309909820557,
+        "average_presence": 0.18396463990211487
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.29590433835983276,
+      "bertscore_recall": 0.745155394077301,
+      "bertscore_f1": 0.5120841264724731,
+      "fact_presence": {
+        "fact_1": 0.15074636042118073,
+        "fact_2": 0.14738143980503082,
+        "fact_3": 0.12443587183952332,
+        "fact_4": 0.3408741354942322,
+        "average_presence": 0.19085945188999176
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.18253767490386963,
+      "bertscore_recall": 0.6000679135322571,
+      "bertscore_f1": 0.3841311037540436,
+      "fact_presence": {
+        "fact_1": 0.20465941727161407,
+        "fact_2": 0.15353891253471375,
+        "fact_3": 0.20925116539001465,
+        "fact_4": 0.29970094561576843,
+        "average_presence": 0.21678760647773743
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.04081520810723305,
+      "bertscore_recall": 0.12211060523986816,
+      "bertscore_f1": 0.08262860029935837,
+      "fact_presence": {
+        "fact_1": 0.1704864352941513,
+        "fact_2": 0.2525196373462677,
+        "fact_3": 0.20846465229988098,
+        "fact_4": 0.3379014730453491,
+        "average_presence": 0.24234303832054138
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.1765444576740265,
+      "bertscore_recall": 0.44322121143341064,
+      "bertscore_f1": 0.3076256215572357,
+      "fact_presence": {
+        "fact_1": 0.35571563243865967,
+        "fact_2": 0.3559870719909668,
+        "fact_3": 0.27115505933761597,
+        "fact_4": 0.5747697353363037,
+        "average_presence": 0.38940685987472534
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.17514361441135406,
+      "bertscore_recall": 0.44397076964378357,
+      "bertscore_f1": 0.30724525451660156,
+      "fact_presence": {
+        "fact_1": 0.2676856219768524,
+        "fact_2": 0.2223150134086609,
+        "fact_3": 0.11214651167392731,
+        "fact_4": 0.3915462791919708,
+        "average_presence": 0.24842336773872375
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.17431584000587463,
+      "bertscore_recall": 0.15432216227054596,
+      "bertscore_f1": 0.16565698385238647,
+      "fact_presence": {
+        "fact_1": 0.2397473007440567,
+        "fact_2": 0.26816660165786743,
+        "fact_3": 0.2484644651412964,
+        "fact_4": 0.4346363842487335,
+        "average_presence": 0.2977536916732788
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": -0.023766273632645607,
+      "bertscore_recall": 0.15625667572021484,
+      "bertscore_f1": 0.06614900380373001,
+      "fact_presence": {
+        "fact_1": 0.051332566887140274,
+        "fact_2": 0.0579802542924881,
+        "fact_3": 0.15753409266471863,
+        "fact_4": 0.22267016768455505,
+        "average_presence": 0.12237926572561264
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.11882039904594421,
+      "bertscore_recall": 0.12951122224330902,
+      "bertscore_f1": 0.12558333575725555,
+      "fact_presence": {
+        "fact_1": 0.06535142660140991,
+        "fact_2": 0.10964357852935791,
+        "fact_3": 0.18357208371162415,
+        "fact_4": 0.1483926624059677,
+        "average_presence": 0.12673993408679962
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.043113868683576584,
+      "bertscore_recall": -0.04032811522483826,
+      "bertscore_f1": 0.0026614286471158266,
+      "fact_presence": {
+        "fact_1": 0.026213545352220535,
+        "fact_2": 0.038781724870204926,
+        "fact_3": 0.11216706782579422,
+        "fact_4": 0.10513830929994583,
+        "average_presence": 0.07057516276836395
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.0754801332950592,
+      "bertscore_recall": 0.6525415182113647,
+      "bertscore_f1": 0.3493707776069641,
+      "fact_presence": {
+        "fact_1": 0.906915009021759,
+        "fact_2": 0.992805004119873,
+        "fact_3": 0.8440843820571899,
+        "fact_4": 0.8280214071273804,
+        "average_presence": 0.8929564952850342
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": -0.0750008076429367,
+      "bertscore_recall": 0.22527430951595306,
+      "bertscore_f1": 0.07215452194213867,
+      "fact_presence": {
+        "fact_1": 0.7027817964553833,
+        "fact_2": 0.716489851474762,
+        "fact_3": 0.7131708860397339,
+        "fact_4": 0.5094963312149048,
+        "average_presence": 0.6604846715927124
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": -0.1962539404630661,
+      "bertscore_recall": 0.02336490899324417,
+      "bertscore_f1": -0.08715719729661942,
+      "fact_presence": {
+        "fact_1": 0.9429148435592651,
+        "fact_2": 0.8312720060348511,
+        "fact_3": 0.7718802690505981,
+        "fact_4": 0.8049638271331787,
+        "average_presence": 0.8377577662467957
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.017620591446757317,
+      "bertscore_recall": 0.22124256193637848,
+      "bertscore_f1": 0.1188192218542099,
+      "fact_presence": {
+        "fact_1": 0.35812461376190186,
+        "fact_2": 0.2957075536251068,
+        "fact_3": 0.2747820317745209,
+        "fact_4": 0.41124388575553894,
+        "average_presence": 0.3349645435810089
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.001589748077094555,
+      "bertscore_recall": 0.042408015578985214,
+      "bertscore_f1": 0.02350504696369171,
+      "fact_presence": {
+        "fact_1": 0.06557278335094452,
+        "fact_2": 0.09963084757328033,
+        "fact_3": 0.2807808816432953,
+        "fact_4": 0.18930427730083466,
+        "average_presence": 0.1588221937417984
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.0034097868483513594,
+      "bertscore_recall": 0.5248073935508728,
+      "bertscore_f1": 0.2522642910480499,
+      "fact_presence": {
+        "fact_1": 0.6812544465065002,
+        "fact_2": 1.0,
+        "fact_3": 0.8359224796295166,
+        "fact_4": 0.8302891254425049,
+        "average_presence": 0.8368664979934692
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.06275153905153275,
+      "bertscore_recall": 0.46072351932525635,
+      "bertscore_f1": 0.255338579416275,
+      "fact_presence": {
+        "fact_1": 0.57142174243927,
+        "fact_2": 1.0,
+        "fact_3": 0.9124579429626465,
+        "fact_4": 0.915919303894043,
+        "average_presence": 0.8499497175216675
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.09019114077091217,
+      "bertscore_recall": 0.04867565631866455,
+      "bertscore_f1": 0.0708584189414978,
+      "fact_presence": {
+        "fact_1": 0.1842593401670456,
+        "fact_2": 0.1913796365261078,
+        "fact_3": 0.10474298894405365,
+        "fact_4": 0.19877606630325317,
+        "average_presence": 0.16978950798511505
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.18074239790439606,
+      "bertscore_recall": 0.03666706755757332,
+      "bertscore_f1": -0.07271640002727509,
+      "fact_presence": {
+        "fact_1": 0.9724926948547363,
+        "fact_2": 0.40033048391342163,
+        "fact_3": 0.8359224796295166,
+        "fact_4": 0.8446579575538635,
+        "average_presence": 0.7633509039878845
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.05489937216043472,
+      "bertscore_recall": 0.06970103085041046,
+      "bertscore_f1": 0.008232912048697472,
+      "fact_presence": {
+        "fact_1": 0.2594267725944519,
+        "fact_2": 0.2913041114807129,
+        "fact_3": 0.16777028143405914,
+        "fact_4": 0.568701982498169,
+        "average_presence": 0.32180076837539673
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.16494926810264587,
+      "bertscore_recall": 0.018719801679253578,
+      "bertscore_f1": -0.07309852540493011,
+      "fact_presence": {
+        "fact_1": 0.919167160987854,
+        "fact_2": 0.7949841022491455,
+        "fact_3": 0.8024531006813049,
+        "fact_4": 0.7438474893569946,
+        "average_presence": 0.8151129484176636
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.02675510011613369,
+      "bertscore_recall": 0.2871414124965668,
+      "bertscore_f1": 0.15500031411647797,
+      "fact_presence": {
+        "fact_1": 0.2554883658885956,
+        "fact_2": 0.1920309066772461,
+        "fact_3": 0.7281975746154785,
+        "fact_4": 0.3065369725227356,
+        "average_presence": 0.37056344747543335
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.036664318293333054,
+      "bertscore_recall": 0.2349988967180252,
+      "bertscore_f1": 0.13530376553535461,
+      "fact_presence": {
+        "fact_1": 0.7366644740104675,
+        "fact_2": 0.4108397960662842,
+        "fact_3": 0.30137884616851807,
+        "fact_4": 0.53853440284729,
+        "average_presence": 0.49685439467430115
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.047714728862047195,
+      "bertscore_recall": 0.07279187440872192,
+      "bertscore_f1": 0.01341309119015932,
+      "fact_presence": {
+        "fact_1": 0.3973943591117859,
+        "fact_2": 0.3683885335922241,
+        "fact_3": 0.5067233443260193,
+        "fact_4": 0.5382360219955444,
+        "average_presence": 0.45268556475639343
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.0811111107468605,
+      "bertscore_recall": 0.1737547069787979,
+      "bertscore_f1": 0.044622719287872314,
+      "fact_presence": {
+        "fact_1": 0.30939769744873047,
+        "fact_2": 0.4029991924762726,
+        "fact_3": 0.3001488447189331,
+        "fact_4": 0.5371954441070557,
+        "average_presence": 0.38743528723716736
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.06623702496290207,
+      "bertscore_recall": 0.19698980450630188,
+      "bertscore_f1": 0.06344272196292877,
+      "fact_presence": {
+        "fact_1": 0.23632167279720306,
+        "fact_2": 0.2830048203468323,
+        "fact_3": 0.33110859990119934,
+        "fact_4": 0.5800715088844299,
+        "average_presence": 0.35762667655944824
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.06572125852108002,
+      "bertscore_recall": 0.3287910521030426,
+      "bertscore_f1": 0.19520074129104614,
+      "fact_presence": {
+        "fact_1": 0.36803990602493286,
+        "fact_2": 0.8152311444282532,
+        "fact_3": 0.38052552938461304,
+        "fact_4": 0.4907514452934265,
+        "average_presence": 0.5136370062828064
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.09016107022762299,
+      "bertscore_recall": 0.2244044989347458,
+      "bertscore_f1": 0.06370759010314941,
+      "fact_presence": {
+        "fact_1": 0.6197651028633118,
+        "fact_2": 0.3468819260597229,
+        "fact_3": 0.8446006774902344,
+        "fact_4": 0.6183788180351257,
+        "average_presence": 0.6074066162109375
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.00630699098110199,
+      "bertscore_recall": -0.013237780891358852,
+      "bertscore_f1": -0.008134379982948303,
+      "fact_presence": {
+        "fact_1": 0.029857072979211807,
+        "fact_2": 0.06465939432382584,
+        "fact_3": 0.11148003488779068,
+        "fact_4": 0.1628282070159912,
+        "average_presence": 0.09220618009567261
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.11232415586709976,
+      "bertscore_recall": 0.07143675535917282,
+      "bertscore_f1": -0.020496461540460587,
+      "fact_presence": {
+        "fact_1": 0.3919293284416199,
+        "fact_2": 0.33218228816986084,
+        "fact_3": 0.44937676191329956,
+        "fact_4": 0.46230870485305786,
+        "average_presence": 0.40894925594329834
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.08886034041643143,
+      "bertscore_recall": -0.011361979879438877,
+      "bertscore_f1": -0.04871021583676338,
+      "fact_presence": {
+        "fact_1": 0.1896178126335144,
+        "fact_2": 0.18896661698818207,
+        "fact_3": 0.18496201932430267,
+        "fact_4": 0.21785759925842285,
+        "average_presence": 0.1953510195016861
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.19850024580955505,
+      "bertscore_recall": 0.016295727342367172,
+      "bertscore_f1": -0.09170132875442505,
+      "fact_presence": {
+        "fact_1": 0.6345604658126831,
+        "fact_2": 0.8523445725440979,
+        "fact_3": 0.822393536567688,
+        "fact_4": 0.9048162698745728,
+        "average_presence": 0.8035286664962769
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.03145536407828331,
+      "bertscore_recall": 0.0023321048356592655,
+      "bertscore_f1": -0.012970225885510445,
+      "fact_presence": {
+        "fact_1": 0.23553405702114105,
+        "fact_2": 0.2897033393383026,
+        "fact_3": 0.2959774136543274,
+        "fact_4": 0.589943528175354,
+        "average_presence": 0.35278958082199097
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.04675111547112465,
+      "bertscore_recall": -0.012639278545975685,
+      "bertscore_f1": -0.028080614283680916,
+      "fact_presence": {
+        "fact_1": 0.0034595774486660957,
+        "fact_2": 0.023068342357873917,
+        "fact_3": 0.18807920813560486,
+        "fact_4": 0.11383596807718277,
+        "average_presence": 0.08211077004671097
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.1964690238237381,
+      "bertscore_recall": 0.01944528892636299,
+      "bertscore_f1": -0.08913914114236832,
+      "fact_presence": {
+        "fact_1": 0.9587230682373047,
+        "fact_2": 0.9915865063667297,
+        "fact_3": 0.8159111142158508,
+        "fact_4": 0.7721439003944397,
+        "average_presence": 0.8845911026000977
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.019733181223273277,
+      "bertscore_recall": -0.05150509625673294,
+      "bertscore_f1": -0.03398866206407547,
+      "fact_presence": {
+        "fact_1": 0.13106635212898254,
+        "fact_2": 0.09856471419334412,
+        "fact_3": 0.24733951687812805,
+        "fact_4": 0.15968570113182068,
+        "average_presence": 0.15916407108306885
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.028006309643387794,
+      "bertscore_recall": 0.005507842171937227,
+      "bertscore_f1": -0.009662157855927944,
+      "fact_presence": {
+        "fact_1": 0.17895042896270752,
+        "fact_2": 0.12840643525123596,
+        "fact_3": 0.15092308819293976,
+        "fact_4": 0.2565203905105591,
+        "average_presence": 0.17870008945465088
+      }
+    },
+    {
+      "story_key": "ai_regulation",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.10031083971261978,
+      "bertscore_recall": 0.22025637328624725,
+      "bertscore_f1": 0.05637277290225029,
+      "fact_presence": {
+        "fact_1": 0.21871371567249298,
+        "fact_2": 0.3049747943878174,
+        "fact_3": 0.29548925161361694,
+        "fact_4": 0.5758678317070007,
+        "average_presence": 0.3487613797187805
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.18062105774879456,
+      "bertscore_recall": 0.4236747622489929,
+      "bertscore_f1": 0.30047160387039185,
+      "fact_presence": {
+        "fact_1": 0.6316922307014465,
+        "fact_2": 0.7456380128860474,
+        "fact_3": 0.863636314868927,
+        "fact_4": 0.7669352293014526,
+        "average_presence": 0.751975417137146
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.01720670610666275,
+      "bertscore_recall": -0.0425717867910862,
+      "bertscore_f1": -0.011219602078199387,
+      "fact_presence": {
+        "fact_1": 0.38667017221450806,
+        "fact_2": 0.1810102015733719,
+        "fact_3": 0.27386224269866943,
+        "fact_4": 0.24857686460018158,
+        "average_presence": 0.27252987027168274
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.21232794225215912,
+      "bertscore_recall": 0.32439354062080383,
+      "bertscore_f1": 0.2689494490623474,
+      "fact_presence": {
+        "fact_1": 0.7283180952072144,
+        "fact_2": 0.9268996715545654,
+        "fact_3": 0.4999966323375702,
+        "fact_4": 0.7657217383384705,
+        "average_presence": 0.7302340269088745
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.5327315330505371,
+      "bertscore_recall": 0.8499837517738342,
+      "bertscore_f1": 0.6874001026153564,
+      "fact_presence": {
+        "fact_1": 0.71189945936203,
+        "fact_2": 0.9191626906394958,
+        "fact_3": 0.8969855308532715,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.8547983169555664
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": -0.10582012683153152,
+      "bertscore_recall": 0.1459381878376007,
+      "bertscore_f1": 0.01846436783671379,
+      "fact_presence": {
+        "fact_1": 0.6440542340278625,
+        "fact_2": 0.48196691274642944,
+        "fact_3": 0.6543014049530029,
+        "fact_4": 0.6492353081703186,
+        "average_presence": 0.6073894500732422
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4892946779727936,
+      "bertscore_recall": 0.7081859111785889,
+      "bertscore_f1": 0.597235381603241,
+      "fact_presence": {
+        "fact_1": 0.6594012975692749,
+        "fact_2": 0.929323673248291,
+        "fact_3": 0.8584713339805603,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.8345854878425598
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.32721784710884094,
+      "bertscore_recall": 0.6538099646568298,
+      "bertscore_f1": 0.48644140362739563,
+      "fact_presence": {
+        "fact_1": 0.7800895571708679,
+        "fact_2": 0.9338207244873047,
+        "fact_3": 0.8947772979736328,
+        "fact_4": 0.7945523262023926,
+        "average_presence": 0.8508099913597107
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.1394025832414627,
+      "bertscore_recall": 0.37587741017341614,
+      "bertscore_f1": 0.2561635673046112,
+      "fact_presence": {
+        "fact_1": 0.6953377723693848,
+        "fact_2": 0.5009106397628784,
+        "fact_3": 0.8975505828857422,
+        "fact_4": 0.8224653601646423,
+        "average_presence": 0.7290661334991455
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.026767127215862274,
+      "bertscore_recall": 0.3734593391418457,
+      "bertscore_f1": 0.19557827711105347,
+      "fact_presence": {
+        "fact_1": 0.6693766713142395,
+        "fact_2": 0.5534875392913818,
+        "fact_3": 0.8468760251998901,
+        "fact_4": 0.8424241542816162,
+        "average_presence": 0.7280411124229431
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.08967643976211548,
+      "bertscore_recall": 0.08585668355226517,
+      "bertscore_f1": 0.08924791216850281,
+      "fact_presence": {
+        "fact_1": 0.5464748740196228,
+        "fact_2": 0.4267107844352722,
+        "fact_3": 0.5551457405090332,
+        "fact_4": 0.3942829370498657,
+        "average_presence": 0.4806535840034485
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.29048454761505127,
+      "bertscore_recall": 0.5702436566352844,
+      "bertscore_f1": 0.4276544153690338,
+      "fact_presence": {
+        "fact_1": 0.7466423511505127,
+        "fact_2": 0.7437555193901062,
+        "fact_3": 0.8270555138587952,
+        "fact_4": 0.8880879878997803,
+        "average_presence": 0.8013853430747986
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.25608882308006287,
+      "bertscore_recall": 0.3996597230434418,
+      "bertscore_f1": 0.3279917538166046,
+      "fact_presence": {
+        "fact_1": 0.7122355103492737,
+        "fact_2": 0.48224949836730957,
+        "fact_3": 0.8410280346870422,
+        "fact_4": 0.9473615884780884,
+        "average_presence": 0.7457185983657837
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.16882388293743134,
+      "bertscore_recall": 0.33204883337020874,
+      "bertscore_f1": 0.2503755986690521,
+      "fact_presence": {
+        "fact_1": 0.6554475426673889,
+        "fact_2": 0.44964271783828735,
+        "fact_3": 0.6396253108978271,
+        "fact_4": 0.9083551168441772,
+        "average_presence": 0.6632676720619202
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3425843417644501,
+      "bertscore_recall": 0.6529695391654968,
+      "bertscore_f1": 0.4941728413105011,
+      "fact_presence": {
+        "fact_1": 0.8197721838951111,
+        "fact_2": 0.8036035895347595,
+        "fact_3": 0.8823840618133545,
+        "fact_4": 0.8874943852424622,
+        "average_presence": 0.8483135104179382
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.22025121748447418,
+      "bertscore_recall": 0.47719326615333557,
+      "bertscore_f1": 0.34666696190834045,
+      "fact_presence": {
+        "fact_1": 0.6544603109359741,
+        "fact_2": 0.9414608478546143,
+        "fact_3": 0.9008117914199829,
+        "fact_4": 0.871804416179657,
+        "average_presence": 0.8421343564987183
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.31910035014152527,
+      "bertscore_recall": 0.6181372404098511,
+      "bertscore_f1": 0.4653579890727997,
+      "fact_presence": {
+        "fact_1": 0.8551808595657349,
+        "fact_2": 0.9566497206687927,
+        "fact_3": 0.8809540867805481,
+        "fact_4": 0.9046991467475891,
+        "average_presence": 0.8993709087371826
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.050259243696928024,
+      "bertscore_recall": 0.6683399081230164,
+      "bertscore_f1": 0.3423428535461426,
+      "fact_presence": {
+        "fact_1": 0.9164853096008301,
+        "fact_2": 0.6706037521362305,
+        "fact_3": 0.8394531011581421,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.8294219970703125
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.11610537767410278,
+      "bertscore_recall": 0.557839572429657,
+      "bertscore_f1": 0.32882097363471985,
+      "fact_presence": {
+        "fact_1": 0.7105408906936646,
+        "fact_2": 0.9865975379943848,
+        "fact_3": 0.8788174390792847,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.866775393486023
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.23137131333351135,
+      "bertscore_recall": 0.548151433467865,
+      "bertscore_f1": 0.3860558271408081,
+      "fact_presence": {
+        "fact_1": 0.7155556678771973,
+        "fact_2": 0.8300521969795227,
+        "fact_3": 0.9108997583389282,
+        "fact_4": 0.87493896484375,
+        "average_presence": 0.8328616619110107
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.09416162222623825,
+      "bertscore_recall": 0.46961578726768494,
+      "bertscore_f1": 0.27631887793540955,
+      "fact_presence": {
+        "fact_1": 0.658849835395813,
+        "fact_2": 0.609264612197876,
+        "fact_3": 0.8302487134933472,
+        "fact_4": 0.7081682085990906,
+        "average_presence": 0.7016328573226929
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.335316926240921,
+      "bertscore_recall": 0.7612311244010925,
+      "bertscore_f1": 0.5407587885856628,
+      "fact_presence": {
+        "fact_1": 0.8033164739608765,
+        "fact_2": 0.9778682589530945,
+        "fact_3": 0.895361065864563,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.8919228315353394
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.25886964797973633,
+      "bertscore_recall": 0.5218718647956848,
+      "bertscore_f1": 0.3881250023841858,
+      "fact_presence": {
+        "fact_1": 0.754398763179779,
+        "fact_2": 0.802273154258728,
+        "fact_3": 0.8572428226470947,
+        "fact_4": 0.5911772847175598,
+        "average_presence": 0.751272976398468
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2902609705924988,
+      "bertscore_recall": 0.6124228239059448,
+      "bertscore_f1": 0.4474307894706726,
+      "fact_presence": {
+        "fact_1": 0.6721001863479614,
+        "fact_2": 0.6849724054336548,
+        "fact_3": 0.8929353356361389,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.785288393497467
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.22945328056812286,
+      "bertscore_recall": 0.4838588535785675,
+      "bertscore_f1": 0.35465407371520996,
+      "fact_presence": {
+        "fact_1": 0.7483031153678894,
+        "fact_2": 0.6381762027740479,
+        "fact_3": 0.9506579041481018,
+        "fact_4": 0.9575355052947998,
+        "average_presence": 0.8236681818962097
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.1893317848443985,
+      "bertscore_recall": 0.5106474757194519,
+      "bertscore_f1": 0.346176415681839,
+      "fact_presence": {
+        "fact_1": 0.7405408620834351,
+        "fact_2": 0.8918579816818237,
+        "fact_3": 0.8712273836135864,
+        "fact_4": 0.9307581186294556,
+        "average_presence": 0.8585960865020752
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.18931515514850616,
+      "bertscore_recall": 0.5089856386184692,
+      "bertscore_f1": 0.34538745880126953,
+      "fact_presence": {
+        "fact_1": 0.7069777846336365,
+        "fact_2": 0.654620885848999,
+        "fact_3": 0.8464441895484924,
+        "fact_4": 0.6921085119247437,
+        "average_presence": 0.7250378131866455
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2634223997592926,
+      "bertscore_recall": 0.3900345265865326,
+      "bertscore_f1": 0.32706472277641296,
+      "fact_presence": {
+        "fact_1": 0.7879543304443359,
+        "fact_2": 0.5283617377281189,
+        "fact_3": 0.5595979690551758,
+        "fact_4": 0.8814526796340942,
+        "average_presence": 0.68934166431427
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2606864869594574,
+      "bertscore_recall": 0.4947755038738251,
+      "bertscore_f1": 0.3761722445487976,
+      "fact_presence": {
+        "fact_1": 0.8265147805213928,
+        "fact_2": 0.6622307300567627,
+        "fact_3": 0.8776416778564453,
+        "fact_4": 0.9292885065078735,
+        "average_presence": 0.8239189386367798
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.1753537356853485,
+      "bertscore_recall": 0.3997654914855957,
+      "bertscore_f1": 0.28631511330604553,
+      "fact_presence": {
+        "fact_1": 0.7112581133842468,
+        "fact_2": 0.9427807331085205,
+        "fact_3": 0.787402868270874,
+        "fact_4": 0.8744820356369019,
+        "average_presence": 0.8289809226989746
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3487526774406433,
+      "bertscore_recall": 0.5637680292129517,
+      "bertscore_f1": 0.4550078809261322,
+      "fact_presence": {
+        "fact_1": 0.7898119688034058,
+        "fact_2": 0.8106117844581604,
+        "fact_3": 0.8490099310874939,
+        "fact_4": 0.7973645925521851,
+        "average_presence": 0.811699628829956
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.12493884563446045,
+      "bertscore_recall": 0.5917065739631653,
+      "bertscore_f1": 0.3491016626358032,
+      "fact_presence": {
+        "fact_1": 0.7499366998672485,
+        "fact_2": 0.905924379825592,
+        "fact_3": 0.8083617687225342,
+        "fact_4": 0.8802739381790161,
+        "average_presence": 0.8361241817474365
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3182630240917206,
+      "bertscore_recall": 0.5930730104446411,
+      "bertscore_f1": 0.4530612528324127,
+      "fact_presence": {
+        "fact_1": 0.9213480949401855,
+        "fact_2": 0.9609832167625427,
+        "fact_3": 0.7937697768211365,
+        "fact_4": 0.8522654175758362,
+        "average_presence": 0.8820916414260864
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.21872973442077637,
+      "bertscore_recall": 0.5692882537841797,
+      "bertscore_f1": 0.38924524188041687,
+      "fact_presence": {
+        "fact_1": 0.7301161289215088,
+        "fact_2": 0.949919581413269,
+        "fact_3": 0.8367875814437866,
+        "fact_4": 0.8656154870986938,
+        "average_presence": 0.8456096649169922
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.355970561504364,
+      "bertscore_recall": 0.6818705797195435,
+      "bertscore_f1": 0.5148476362228394,
+      "fact_presence": {
+        "fact_1": 0.7282156944274902,
+        "fact_2": 0.9591415524482727,
+        "fact_3": 0.8771297931671143,
+        "fact_4": 0.8349971771240234,
+        "average_presence": 0.849871039390564
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.1776159703731537,
+      "bertscore_recall": 0.5409471392631531,
+      "bertscore_f1": 0.3541063070297241,
+      "fact_presence": {
+        "fact_1": 0.7043447494506836,
+        "fact_2": 0.960043728351593,
+        "fact_3": 0.9457279443740845,
+        "fact_4": 0.8492045402526855,
+        "average_presence": 0.8648302555084229
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3076052963733673,
+      "bertscore_recall": 0.6533104777336121,
+      "bertscore_f1": 0.4758002758026123,
+      "fact_presence": {
+        "fact_1": 0.9151306748390198,
+        "fact_2": 0.9666093587875366,
+        "fact_3": 0.7584847211837769,
+        "fact_4": 0.9060832262039185,
+        "average_presence": 0.8865770101547241
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2632702887058258,
+      "bertscore_recall": 0.5579701066017151,
+      "bertscore_f1": 0.4075287878513336,
+      "fact_presence": {
+        "fact_1": 0.7762023210525513,
+        "fact_2": 0.878793478012085,
+        "fact_3": 0.841336190700531,
+        "fact_4": 0.8588933944702148,
+        "average_presence": 0.8388063311576843
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2298593819141388,
+      "bertscore_recall": 0.5278196930885315,
+      "bertscore_f1": 0.37568485736846924,
+      "fact_presence": {
+        "fact_1": 0.8805456161499023,
+        "fact_2": 0.9220377802848816,
+        "fact_3": 0.9302511811256409,
+        "fact_4": 0.8815326690673828,
+        "average_presence": 0.9035918116569519
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.18906964361667633,
+      "bertscore_recall": 0.578629732131958,
+      "bertscore_f1": 0.3777371048927307,
+      "fact_presence": {
+        "fact_1": 0.86635422706604,
+        "fact_2": 0.8891574740409851,
+        "fact_3": 0.8690130710601807,
+        "fact_4": 0.9553932547569275,
+        "average_presence": 0.8949795365333557
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.34630295634269714,
+      "bertscore_recall": 0.6256184577941895,
+      "bertscore_f1": 0.4832092821598053,
+      "fact_presence": {
+        "fact_1": 0.8656816482543945,
+        "fact_2": 0.952168345451355,
+        "fact_3": 0.8843551874160767,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.898337721824646
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.5155612230300903,
+      "bertscore_recall": 0.7726967334747314,
+      "bertscore_f1": 0.6417539119720459,
+      "fact_presence": {
+        "fact_1": 0.9233677983283997,
+        "fact_2": 0.981322169303894,
+        "fact_3": 0.8946475386619568,
+        "fact_4": 0.8911457061767578,
+        "average_presence": 0.9226208329200745
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3488425016403198,
+      "bertscore_recall": 0.609808087348938,
+      "bertscore_f1": 0.4770370423793793,
+      "fact_presence": {
+        "fact_1": 0.8607885837554932,
+        "fact_2": 0.8702155351638794,
+        "fact_3": 0.6657209396362305,
+        "fact_4": 0.8561768531799316,
+        "average_presence": 0.813225507736206
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.07269011437892914,
+      "bertscore_recall": -0.14882740378379822,
+      "bertscore_f1": -0.10925595462322235,
+      "fact_presence": {
+        "fact_1": 0.0833931714296341,
+        "fact_2": -0.061592113226652145,
+        "fact_3": 0.11607309430837631,
+        "fact_4": 0.10992597043514252,
+        "average_presence": 0.06195003166794777
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.572469174861908,
+      "bertscore_recall": 0.7415583729743958,
+      "bertscore_f1": 0.6562978029251099,
+      "fact_presence": {
+        "fact_1": 0.687705397605896,
+        "fact_2": 0.9728763699531555,
+        "fact_3": 0.885589599609375,
+        "fact_4": 0.8438926935195923,
+        "average_presence": 0.8475160598754883
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.23731324076652527,
+      "bertscore_recall": 0.2404979020357132,
+      "bertscore_f1": 0.24014165997505188,
+      "fact_presence": {
+        "fact_1": 0.6156678199768066,
+        "fact_2": 0.4651038646697998,
+        "fact_3": 0.5233572721481323,
+        "fact_4": 0.582978367805481,
+        "average_presence": 0.5467768311500549
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.39379799365997314,
+      "bertscore_recall": 0.5954475402832031,
+      "bertscore_f1": 0.49357882142066956,
+      "fact_presence": {
+        "fact_1": 0.8544995784759521,
+        "fact_2": 0.9682567715644836,
+        "fact_3": 0.7804359197616577,
+        "fact_4": 0.8932377099990845,
+        "average_presence": 0.8741074800491333
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2678283452987671,
+      "bertscore_recall": 0.6430814862251282,
+      "bertscore_f1": 0.4498273432254791,
+      "fact_presence": {
+        "fact_1": 0.8009437322616577,
+        "fact_2": 0.9791045188903809,
+        "fact_3": 0.8904838562011719,
+        "fact_4": 0.8613906502723694,
+        "average_presence": 0.8829807043075562
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.23594669997692108,
+      "bertscore_recall": 0.5707066655158997,
+      "bertscore_f1": 0.39906349778175354,
+      "fact_presence": {
+        "fact_1": 0.9891600608825684,
+        "fact_2": 0.9678233861923218,
+        "fact_3": 0.935123085975647,
+        "fact_4": 0.8461097478866577,
+        "average_presence": 0.9345541000366211
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.4953547418117523,
+      "bertscore_recall": 0.8297917246818542,
+      "bertscore_f1": 0.6581403017044067,
+      "fact_presence": {
+        "fact_1": 0.7904542684555054,
+        "fact_2": 0.9743217825889587,
+        "fact_3": 0.8603955507278442,
+        "fact_4": 0.7152132987976074,
+        "average_presence": 0.8350962400436401
+      }
+    },
+    {
+      "story_key": "housing",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.49032798409461975,
+      "bertscore_recall": 0.6346098184585571,
+      "bertscore_f1": 0.5622373819351196,
+      "fact_presence": {
+        "fact_1": 0.8689560294151306,
+        "fact_2": 0.963213324546814,
+        "fact_3": 0.8252671957015991,
+        "fact_4": 0.8697604537010193,
+        "average_presence": 0.8817992210388184
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.5028524398803711,
+      "bertscore_recall": 0.5452739000320435,
+      "bertscore_f1": 0.5247548818588257,
+      "fact_presence": {
+        "fact_1": 0.8573243618011475,
+        "fact_2": 0.9216319918632507,
+        "fact_3": 0.6126832962036133,
+        "fact_4": 0.7710752487182617,
+        "average_presence": 0.7906787395477295
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.4475105404853821,
+      "bertscore_recall": 0.6314857006072998,
+      "bertscore_f1": 0.53870689868927,
+      "fact_presence": {
+        "fact_1": 0.868295431137085,
+        "fact_2": 0.7175073623657227,
+        "fact_3": 0.6237635612487793,
+        "fact_4": 0.8182163834571838,
+        "average_presence": 0.7569456696510315
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3001995384693146,
+      "bertscore_recall": 0.4452342689037323,
+      "bertscore_f1": 0.3727497458457947,
+      "fact_presence": {
+        "fact_1": 0.7541935443878174,
+        "fact_2": 0.5542994737625122,
+        "fact_3": 0.8135422468185425,
+        "fact_4": 0.729053258895874,
+        "average_presence": 0.7127721309661865
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.3292557895183563,
+      "bertscore_recall": 0.4923737049102783,
+      "bertscore_f1": 0.4105331301689148,
+      "fact_presence": {
+        "fact_1": 0.8482940196990967,
+        "fact_2": 0.6212244629859924,
+        "fact_3": 0.6276761293411255,
+        "fact_4": 0.671593189239502,
+        "average_presence": 0.6921969652175903
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.23399294912815094,
+      "bertscore_recall": 0.524930477142334,
+      "bertscore_f1": 0.37650066614151,
+      "fact_presence": {
+        "fact_1": 0.6940068006515503,
+        "fact_2": 0.9488531351089478,
+        "fact_3": 0.6569969654083252,
+        "fact_4": 0.8428587913513184,
+        "average_presence": 0.7856789231300354
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.05326186493039131,
+      "bertscore_recall": 0.4084051847457886,
+      "bertscore_f1": 0.22599682211875916,
+      "fact_presence": {
+        "fact_1": 0.8109694123268127,
+        "fact_2": 0.50547194480896,
+        "fact_3": 0.8070319294929504,
+        "fact_4": 0.8182053565979004,
+        "average_presence": 0.7354196310043335
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.5008877515792847,
+      "bertscore_recall": 0.733306348323822,
+      "bertscore_f1": 0.6152949929237366,
+      "fact_presence": {
+        "fact_1": 0.8586225509643555,
+        "fact_2": 0.48218071460723877,
+        "fact_3": 0.8298022747039795,
+        "fact_4": 0.6793931722640991,
+        "average_presence": 0.712499737739563
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.2097487598657608,
+      "bertscore_recall": 0.5306247472763062,
+      "bertscore_f1": 0.3663727045059204,
+      "fact_presence": {
+        "fact_1": 0.8096991777420044,
+        "fact_2": 0.5848842859268188,
+        "fact_3": 0.7812583446502686,
+        "fact_4": 0.8151162266731262,
+        "average_presence": 0.7477394938468933
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.32617464661598206,
+      "bertscore_recall": 0.7560787796974182,
+      "bertscore_f1": 0.5334568023681641,
+      "fact_presence": {
+        "fact_1": 0.8208116292953491,
+        "fact_2": 0.7898576259613037,
+        "fact_3": 0.8686599135398865,
+        "fact_4": 0.7976509928703308,
+        "average_presence": 0.8192450404167175
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_anti",
+      "author_stance": "pro",
+      "editor_stance": "anti",
+      "valid": true,
+      "bertscore_precision": 0.49553975462913513,
+      "bertscore_recall": 0.7866582274436951,
+      "bertscore_f1": 0.6378938555717468,
+      "fact_presence": {
+        "fact_1": 0.8561347723007202,
+        "fact_2": 0.8101102709770203,
+        "fact_3": 0.8592957258224487,
+        "fact_4": 0.9675396084785461,
+        "average_presence": 0.8732700943946838
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.14290045201778412,
+      "bertscore_recall": 0.08161411434412003,
+      "bertscore_f1": 0.11351261287927628,
+      "fact_presence": {
+        "fact_1": 0.48426908254623413,
+        "fact_2": 0.49426180124282837,
+        "fact_3": 0.44636791944503784,
+        "fact_4": 0.5726791024208069,
+        "average_presence": 0.4993944764137268
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.19096185266971588,
+      "bertscore_recall": 0.5515033006668091,
+      "bertscore_f1": 0.36614736914634705,
+      "fact_presence": {
+        "fact_1": 0.8211327791213989,
+        "fact_2": 0.8530729413032532,
+        "fact_3": 0.8369894027709961,
+        "fact_4": 0.8329079151153564,
+        "average_presence": 0.8360257744789124
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.22165311872959137,
+      "bertscore_recall": 0.5403991937637329,
+      "bertscore_f1": 0.3772684335708618,
+      "fact_presence": {
+        "fact_1": 0.8555976748466492,
+        "fact_2": 0.6112193465232849,
+        "fact_3": 0.5524611473083496,
+        "fact_4": 0.9580496549606323,
+        "average_presence": 0.744331955909729
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.28137797117233276,
+      "bertscore_recall": 0.6014255285263062,
+      "bertscore_f1": 0.4375606179237366,
+      "fact_presence": {
+        "fact_1": 0.8672010898590088,
+        "fact_2": 0.926487147808075,
+        "fact_3": 0.849280834197998,
+        "fact_4": 0.7446175813674927,
+        "average_presence": 0.8468966484069824
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4612324833869934,
+      "bertscore_recall": 0.7194035649299622,
+      "bertscore_f1": 0.5879775881767273,
+      "fact_presence": {
+        "fact_1": 0.8142004013061523,
+        "fact_2": 0.8062055110931396,
+        "fact_3": 0.8610872030258179,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.822481632232666
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3321777582168579,
+      "bertscore_recall": 0.5378187894821167,
+      "bertscore_f1": 0.43395519256591797,
+      "fact_presence": {
+        "fact_1": 0.7935507297515869,
+        "fact_2": 0.9183683395385742,
+        "fact_3": 0.7784367203712463,
+        "fact_4": 0.7375720143318176,
+        "average_presence": 0.8069819211959839
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.46748533844947815,
+      "bertscore_recall": 0.5703904628753662,
+      "bertscore_f1": 0.5192371010780334,
+      "fact_presence": {
+        "fact_1": 0.8350874185562134,
+        "fact_2": 0.7006005048751831,
+        "fact_3": 0.5820682644844055,
+        "fact_4": 0.8137351274490356,
+        "average_presence": 0.7328728437423706
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.286868155002594,
+      "bertscore_recall": 0.6172758936882019,
+      "bertscore_f1": 0.4479110836982727,
+      "fact_presence": {
+        "fact_1": 0.8279088735580444,
+        "fact_2": 0.9226469397544861,
+        "fact_3": 0.8868668675422668,
+        "fact_4": 0.7139054536819458,
+        "average_presence": 0.837831974029541
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2976461946964264,
+      "bertscore_recall": 0.5845192670822144,
+      "bertscore_f1": 0.4381761848926544,
+      "fact_presence": {
+        "fact_1": 0.9080018997192383,
+        "fact_2": 0.6311427354812622,
+        "fact_3": 0.8825309872627258,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8075273036956787
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "anti_vs_pro",
+      "author_stance": "anti",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.24180760979652405,
+      "bertscore_recall": 0.6528128385543823,
+      "bertscore_f1": 0.440382719039917,
+      "fact_presence": {
+        "fact_1": 0.848220944404602,
+        "fact_2": 0.9595202803611755,
+        "fact_3": 0.8902672529220581,
+        "fact_4": 0.6849180459976196,
+        "average_presence": 0.8457316160202026
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.024081464856863022,
+      "bertscore_recall": 0.18014615774154663,
+      "bertscore_f1": 0.1023692935705185,
+      "fact_presence": {
+        "fact_1": 0.6270861625671387,
+        "fact_2": 0.5352856516838074,
+        "fact_3": 0.7199121713638306,
+        "fact_4": 0.5644839406013489,
+        "average_presence": 0.6116920113563538
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.11041603237390518,
+      "bertscore_recall": 0.32768529653549194,
+      "bertscore_f1": 0.21803796291351318,
+      "fact_presence": {
+        "fact_1": 0.9076156616210938,
+        "fact_2": 0.48899346590042114,
+        "fact_3": 0.6288546919822693,
+        "fact_4": 0.6394970417022705,
+        "average_presence": 0.6662402153015137
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.43487709760665894,
+      "bertscore_recall": 0.6306746006011963,
+      "bertscore_f1": 0.5317891836166382,
+      "fact_presence": {
+        "fact_1": 0.8432911038398743,
+        "fact_2": 0.7350484132766724,
+        "fact_3": 0.8238885402679443,
+        "fact_4": 0.7709050178527832,
+        "average_presence": 0.7932832837104797
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.37155887484550476,
+      "bertscore_recall": 0.4887770414352417,
+      "bertscore_f1": 0.43045711517333984,
+      "fact_presence": {
+        "fact_1": 0.5859008431434631,
+        "fact_2": 0.4775405526161194,
+        "fact_3": 0.8110722899436951,
+        "fact_4": 0.7473068237304688,
+        "average_presence": 0.6554551124572754
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.5467888116836548,
+      "bertscore_recall": 0.795362651348114,
+      "bertscore_f1": 0.6688640117645264,
+      "fact_presence": {
+        "fact_1": 0.8444259762763977,
+        "fact_2": 0.8928478956222534,
+        "fact_3": 0.8503971695899963,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.849026083946228
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.3991250991821289,
+      "bertscore_recall": 0.6289516091346741,
+      "bertscore_f1": 0.512412965297699,
+      "fact_presence": {
+        "fact_1": 0.7758612632751465,
+        "fact_2": 0.92261803150177,
+        "fact_3": 0.6759383678436279,
+        "fact_4": 0.7969527840614319,
+        "average_presence": 0.7928426265716553
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.4873564839363098,
+      "bertscore_recall": 0.6821383237838745,
+      "bertscore_f1": 0.5837103128433228,
+      "fact_presence": {
+        "fact_1": 0.8446102142333984,
+        "fact_2": 0.7231116890907288,
+        "fact_3": 0.8649585247039795,
+        "fact_4": 0.8133013248443604,
+        "average_presence": 0.8114954233169556
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.2181948721408844,
+      "bertscore_recall": 0.5580461621284485,
+      "bertscore_f1": 0.3837062418460846,
+      "fact_presence": {
+        "fact_1": 0.7978585958480835,
+        "fact_2": 0.7399283647537231,
+        "fact_3": 0.8544517755508423,
+        "fact_4": 0.8461165428161621,
+        "average_presence": 0.8095887899398804
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.5230618119239807,
+      "bertscore_recall": 0.7795519232749939,
+      "bertscore_f1": 0.6489390134811401,
+      "fact_presence": {
+        "fact_1": 0.8586225509643555,
+        "fact_2": 0.8284896612167358,
+        "fact_3": 0.8610871434211731,
+        "fact_4": 0.8745573163032532,
+        "average_presence": 0.8556891679763794
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "neutral_vs_pro",
+      "author_stance": "neutral",
+      "editor_stance": "pro",
+      "valid": true,
+      "bertscore_precision": 0.25511670112609863,
+      "bertscore_recall": 0.5797715783119202,
+      "bertscore_f1": 0.41348204016685486,
+      "fact_presence": {
+        "fact_1": 0.8173741698265076,
+        "fact_2": 0.7429450750350952,
+        "fact_3": 0.8743331432342529,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8107714653015137
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.204350546002388,
+      "bertscore_recall": 0.737244725227356,
+      "bertscore_f1": 0.45855608582496643,
+      "fact_presence": {
+        "fact_1": 0.7472931146621704,
+        "fact_2": 0.9319771528244019,
+        "fact_3": 0.8599255084991455,
+        "fact_4": 0.808433473110199,
+        "average_presence": 0.8369073271751404
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.392169326543808,
+      "bertscore_recall": 0.744502067565918,
+      "bertscore_f1": 0.5634137392044067,
+      "fact_presence": {
+        "fact_1": 0.908526599407196,
+        "fact_2": 0.9294575452804565,
+        "fact_3": 0.9171276092529297,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8908863067626953
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.31571003794670105,
+      "bertscore_recall": 0.7400557398796082,
+      "bertscore_f1": 0.5204311013221741,
+      "fact_presence": {
+        "fact_1": 0.925909161567688,
+        "fact_2": 0.8494244813919067,
+        "fact_3": 0.8831824660301208,
+        "fact_4": 0.8088643550872803,
+        "average_presence": 0.8668451309204102
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.21761931478977203,
+      "bertscore_recall": 0.6182391047477722,
+      "bertscore_f1": 0.4113994240760803,
+      "fact_presence": {
+        "fact_1": 0.9364569187164307,
+        "fact_2": 0.5396456718444824,
+        "fact_3": 0.9034803509712219,
+        "fact_4": 0.8103131055831909,
+        "average_presence": 0.7974740266799927
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.4847334325313568,
+      "bertscore_recall": 0.7287821769714355,
+      "bertscore_f1": 0.6047188639640808,
+      "fact_presence": {
+        "fact_1": 0.8608855605125427,
+        "fact_2": 0.952151894569397,
+        "fact_3": 0.9007911086082458,
+        "fact_4": 0.7983173131942749,
+        "average_presence": 0.8780364990234375
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3969573378562927,
+      "bertscore_recall": 0.7453725934028625,
+      "bertscore_f1": 0.5663654804229736,
+      "fact_presence": {
+        "fact_1": 0.8504538536071777,
+        "fact_2": 0.8898620009422302,
+        "fact_3": 0.915686845779419,
+        "fact_4": 0.8103131055831909,
+        "average_presence": 0.8665789365768433
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.14393410086631775,
+      "bertscore_recall": 0.44825756549835205,
+      "bertscore_f1": 0.2928270697593689,
+      "fact_presence": {
+        "fact_1": 0.7239079475402832,
+        "fact_2": 0.9639889001846313,
+        "fact_3": 0.8705443143844604,
+        "fact_4": 0.5750025510787964,
+        "average_presence": 0.7833609580993652
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3929649293422699,
+      "bertscore_recall": 0.781193196773529,
+      "bertscore_f1": 0.5809447169303894,
+      "fact_presence": {
+        "fact_1": 0.8482210040092468,
+        "fact_2": 0.934590220451355,
+        "fact_3": 0.8635827302932739,
+        "fact_4": 0.8280289173126221,
+        "average_presence": 0.8686056733131409
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.26212093234062195,
+      "bertscore_recall": 0.6661323308944702,
+      "bertscore_f1": 0.45745986700057983,
+      "fact_presence": {
+        "fact_1": 0.9294140338897705,
+        "fact_2": 0.9393231868743896,
+        "fact_3": 0.8767870664596558,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8884894847869873
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "pro_vs_neutral",
+      "author_stance": "pro",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.4238567650318146,
+      "bertscore_recall": 0.705159068107605,
+      "bertscore_f1": 0.5616299510002136,
+      "fact_presence": {
+        "fact_1": 0.8654443025588989,
+        "fact_2": 0.8522406816482544,
+        "fact_3": 0.8987914323806763,
+        "fact_4": 0.8084151744842529,
+        "average_presence": 0.856222927570343
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": -0.0507187657058239,
+      "bertscore_recall": 0.15892411768436432,
+      "bertscore_f1": 0.05344576761126518,
+      "fact_presence": {
+        "fact_1": 0.5927457213401794,
+        "fact_2": 0.5849287509918213,
+        "fact_3": 0.538329005241394,
+        "fact_4": 0.7637957334518433,
+        "average_presence": 0.6199498176574707
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.20386449992656708,
+      "bertscore_recall": 0.5825825929641724,
+      "bertscore_f1": 0.38749849796295166,
+      "fact_presence": {
+        "fact_1": 0.7272888422012329,
+        "fact_2": 0.6169033646583557,
+        "fact_3": 0.7837928533554077,
+        "fact_4": 0.8297325372695923,
+        "average_presence": 0.7394293546676636
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3360452950000763,
+      "bertscore_recall": 0.6485603451728821,
+      "bertscore_f1": 0.48864230513572693,
+      "fact_presence": {
+        "fact_1": 0.7904139757156372,
+        "fact_2": 0.6225056648254395,
+        "fact_3": 0.8294733762741089,
+        "fact_4": 0.7983173131942749,
+        "average_presence": 0.7601776123046875
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2140040099620819,
+      "bertscore_recall": 0.5898028612136841,
+      "bertscore_f1": 0.3962780833244324,
+      "fact_presence": {
+        "fact_1": 0.8217684030532837,
+        "fact_2": 0.534184992313385,
+        "fact_3": 0.9047648310661316,
+        "fact_4": 0.9518616199493408,
+        "average_presence": 0.8031449913978577
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.34361374378204346,
+      "bertscore_recall": 0.7888746857643127,
+      "bertscore_f1": 0.5579627156257629,
+      "fact_presence": {
+        "fact_1": 0.7669388055801392,
+        "fact_2": 0.9274104833602905,
+        "fact_3": 0.8428996205329895,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8364205360412598
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.5595895648002625,
+      "bertscore_recall": 0.7672451138496399,
+      "bertscore_f1": 0.6620458960533142,
+      "fact_presence": {
+        "fact_1": 0.9047188758850098,
+        "fact_2": 0.8955072164535522,
+        "fact_3": 0.8844877481460571,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.8732868432998657
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.25395041704177856,
+      "bertscore_recall": 0.5870480537414551,
+      "bertscore_f1": 0.41627660393714905,
+      "fact_presence": {
+        "fact_1": 0.7580071687698364,
+        "fact_2": 0.6939600706100464,
+        "fact_3": 0.8711827993392944,
+        "fact_4": 0.7736575603485107,
+        "average_presence": 0.7742019295692444
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.3988438844680786,
+      "bertscore_recall": 0.6170905232429504,
+      "bertscore_f1": 0.5065868496894836,
+      "fact_presence": {
+        "fact_1": 0.6853162050247192,
+        "fact_2": 0.5413276553153992,
+        "fact_3": 0.8654072284698486,
+        "fact_4": 0.8084334135055542,
+        "average_presence": 0.7251211404800415
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.2739662230014801,
+      "bertscore_recall": 0.5994230508804321,
+      "bertscore_f1": 0.4326947331428528,
+      "fact_presence": {
+        "fact_1": 0.9580893516540527,
+        "fact_2": 1.0,
+        "fact_3": 0.8267698287963867,
+        "fact_4": 0.955849826335907,
+        "average_presence": 0.9351772665977478
+      }
+    },
+    {
+      "story_key": "vaccines",
+      "treatment_key": "control",
+      "author_stance": "neutral",
+      "editor_stance": "neutral",
+      "valid": true,
+      "bertscore_precision": 0.377054363489151,
+      "bertscore_recall": 0.706791877746582,
+      "bertscore_f1": 0.5377191305160522,
+      "fact_presence": {
+        "fact_1": 0.847365140914917,
+        "fact_2": 0.9554882049560547,
+        "fact_3": 0.835006833076477,
+        "fact_4": 0.8084332942962646,
+        "average_presence": 0.8615733981132507
+      }
+    }
+  ]
+}

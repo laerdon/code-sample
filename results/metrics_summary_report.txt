@@ -1,0 +1,103 @@
+=== Metrics Summary Report ===
+
+BERTScore by Treatment:
+  anti_vs_pro: Precision=0.2528, Recall=0.4801, F1=0.3639
+  control: Precision=0.2668, Recall=0.4682, F1=0.3654
+  neutral_vs_pro: Precision=0.2558, Recall=0.4592, F1=0.3558
+  pro_vs_anti: Precision=0.2692, Recall=0.4548, F1=0.3605
+  pro_vs_neutral: Precision=0.2014, Recall=0.4987, F1=0.3465
+
+BERTScore by Story:
+  ai_regulation: Precision=0.0310, Recall=0.2444, F1=0.1357
+  climate: Precision=0.3297, Recall=0.5200, F1=0.4231
+  housing: Precision=0.2511, Recall=0.5170, F1=0.3810
+  tariffs: Precision=0.3174, Recall=0.4810, F1=0.3980
+  vaccines: Precision=0.3168, Recall=0.5985, F1=0.4543
+
+Fact Presence by Treatment:
+  anti_vs_pro: 0.6249
+  control: 0.6505
+  neutral_vs_pro: 0.6795
+  pro_vs_anti: 0.6159
+  pro_vs_neutral: 0.7246
+
+Fact Presence by Story:
+  ai_regulation: 0.3683
+  climate: 0.6957
+  housing: 0.7832
+  tariffs: 0.6576
+  vaccines: 0.7905
+
+Top 3 Treatments with Highest Fact Presence:
+  1. pro_vs_neutral: 0.7246
+  2. neutral_vs_pro: 0.6795
+  3. control: 0.6505
+
+Top 3 Treatments with Lowest Fact Presence:
+  1. control: 0.6505
+  2. anti_vs_pro: 0.6249
+  3. pro_vs_anti: 0.6159
+
+Fact Breakdown by Treatment:
+
+  anti_vs_pro:
+    fact_1: 0.6177
+    fact_2: 0.5667
+    fact_3: 0.6513
+    fact_4: 0.6641
+
+  control:
+    fact_1: 0.6569
+    fact_2: 0.6286
+    fact_3: 0.6678
+    fact_4: 0.6486
+
+  neutral_vs_pro:
+    fact_1: 0.6562
+    fact_2: 0.6369
+    fact_3: 0.7331
+    fact_4: 0.6920
+
+  pro_vs_anti:
+    fact_1: 0.6133
+    fact_2: 0.5721
+    fact_3: 0.6403
+    fact_4: 0.6379
+
+  pro_vs_neutral:
+    fact_1: 0.7217
+    fact_2: 0.6973
+    fact_3: 0.7591
+    fact_4: 0.7200
+
+Fact Breakdown by Story:
+
+  ai_regulation:
+    fact_1: 0.3323
+    fact_2: 0.3393
+    fact_3: 0.3583
+    fact_4: 0.4435
+
+  climate:
+    fact_1: 0.7645
+    fact_2: 0.6477
+    fact_3: 0.7214
+    fact_4: 0.6492
+
+  housing:
+    fact_1: 0.7410
+    fact_2: 0.7818
+    fact_3: 0.7997
+    fact_4: 0.8104
+
+  tariffs:
+    fact_1: 0.6161
+    fact_2: 0.5728
+    fact_3: 0.7705
+    fact_4: 0.6711
+
+  vaccines:
+    fact_1: 0.8117
+    fact_2: 0.7600
+    fact_3: 0.8017
+    fact_4: 0.7885
